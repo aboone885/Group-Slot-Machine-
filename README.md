@@ -1,4 +1,4 @@
-# Group SLot Machine
+# Group Slot Machine
 
 Welcome to our Slot Machine Project 
 
@@ -6,7 +6,7 @@ Welcome to our Slot Machine Project
 
 * Bet input
 
-* spin button
+* Spin button
 
 * Randomizer of icons 
 
