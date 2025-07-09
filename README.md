@@ -12,6 +12,6 @@ Welcome to our Slot Machine Project
 
 * For certain icon matches you win certain amount 
 
-* Spin button (Loops) test commit
+* Spin button (Loops) 
 
 
